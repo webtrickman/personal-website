@@ -1,0 +1,91 @@
+body{
+    font-family: 'Muli', sans-serif;
+    margin: none;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 25px;
+}
+h4{
+    font-size: 17px;
+}
+p{
+    font-size: 20px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding: 3%;
+}
+
+.half-width img{
+    width: 90%;
+}
+section{
+    height: 500px;
+    padding-bottom: 400px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.biography-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.third-width{
+    width: 28%;
+    float: left;
+    margin-left: 1%;
+    padding: 2%;
+}
+.third-width img{
+    width: 100%;
+}
+#work{
+    text-align: center;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 200px;
+}
+.clint-area{
+    background-image: url(images/footer-bg.png);
+    height: 300px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+}
+.message-area{
+    position: ;
+    border-radius: 10px;
+    height: 180px;
+    background-color: rgb(231, 77, 172);
+    width: 650px;
+    position: relative;
+    left: 350px;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+}
+#name{
+    color: rgb(209, 70, 70);
+}
