@@ -66,10 +66,9 @@ section{
 }
 footer{
     text-align: center;
-    font-size: 15px;
+    font-size: 12px;
 }
 .message-area{
-    position: ;
     border-radius: 10px;
     height: 180px;
     background-color: rgb(231, 77, 172);
@@ -87,5 +86,5 @@ footer{
     font-weight: 600;
 }
 #name{
-    color: rgb(209, 70, 70);
+    color: rgb(223, 35, 35);
 }
